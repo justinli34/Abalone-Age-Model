@@ -1,4 +1,4 @@
-# DSCI-100-project_template
-Template project repository for DSCI-100.
+# DSCI100Group10
+Project repository for DSCI 100.
 
-add a sentence
+Predicting the age of abalone from physical traits.
